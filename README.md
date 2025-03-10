@@ -38,10 +38,10 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=FarazJahanmanesh&show_icons=true&theme=algolia&hide_rank=True"/>
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarazJahanmanesh&show_icons=true&locale=en&layout=compact" alt="FarazJahanmanesh" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazJahanmanesh&layout=compact&theme=algolia&langs_count=8"/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarazJahanmanesh&show_icons=true&locale=en" alt="FarazJahanmanesh" />
         </td>
     </tr>
 </table>
@@ -51,8 +51,4 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 ![](https://komarev.com/ghpvc/?username=Faraz-Jahanmanesh&color=lightgrey)
 
 📫 You can reach me via [Email](mailto:jahanmaneshfaraz@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/your-profile)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarazJahanmanesh&show_icons=true&locale=en&layout=compact" alt="premier213" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FarazJahanmanesh&show_icons=true&locale=en" alt="premier213" /></p>
 
