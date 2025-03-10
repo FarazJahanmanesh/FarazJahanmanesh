@@ -38,10 +38,10 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Faraz-Jahanmanesh&show_icons=true&theme=algolia&hide_rank=True"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=FarazJahanmanesh&show_icons=true&theme=algolia&hide_rank=True"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faraz-Jahanmanesh&layout=compact&theme=algolia&langs_count=8"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazJahanmanesh&layout=compact&theme=algolia&langs_count=8"/>
         </td>
     </tr>
 </table>
