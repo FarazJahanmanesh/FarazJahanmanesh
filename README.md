@@ -52,4 +52,7 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 
 📫 You can reach me via [Email](mailto:jahanmaneshfaraz@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/your-profile)
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarazJahanmanesh&show_icons=true&locale=en&layout=compact" alt="premier213" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FarazJahanmanesh&show_icons=true&locale=en" alt="premier213" /></p>
+
