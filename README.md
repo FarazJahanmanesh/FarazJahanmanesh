@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ 
 I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in **Full-Stack Development** and a strong focus on backend technologies. I enjoy designing and optimizing scalable services, implementing clean architecture, and working with modern web technologies.
  
 - 🎓 **B.Sc. in Computer Science** - Azad University, Tehran East Branch (2021 - Present)
