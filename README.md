@@ -47,7 +47,7 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 
 ###
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Bird animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
