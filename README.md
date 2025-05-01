@@ -48,6 +48,12 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 
 <p align="center">
 
+###
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+###
+
 ![](https://komarev.com/ghpvc/?username=Faraz-Jahanmanesh&color=lightgrey)
 
 📫 You can reach me via [Email](mailto:jahanmaneshfaraz@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/your-profile)
