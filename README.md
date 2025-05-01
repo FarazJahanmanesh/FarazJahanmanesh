@@ -36,7 +36,7 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MohammadRezaGholamizadeh/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/FarazJahanmanesh/count.svg?"  />
 </div>
 
 ###
