@@ -33,11 +33,6 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="40"/>&nbsp;
 </div>
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FarazJahanmanesh/count.svg?"  />
-</div>
-
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarazJahanmanesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
