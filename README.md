@@ -5,7 +5,7 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 - 🎓 **B.Sc. in Computer Science** - Azad University, Tehran East Branch (2021 - Present)
 - 💻 Currently working as a **Backend Developer** at ASA 
 - 🚀 Experienced in **.NET Core, Angular, SQL Server, Microservices, RabbitMQ, Redis, and more**
-- 🔍 Passionate about **Clean Architecture, Design Patterns, and Scalable Backend Solutions**
+- 🔍 Passionate about **Clean Architecture, Design Patterns, and Scalable Backend Solutions** 
 - 🌱 Constantly learning new technologies and best practices 
 - 🤝 Looking to collaborate on **innovative software solutions**
 
