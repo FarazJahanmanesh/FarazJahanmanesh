@@ -9,7 +9,7 @@ I'm **Faraz Jahanmanesh**, a passionate **Software Engineer** with experience in
 - 🌱 Constantly learning new technologies and best practices 
 - 🤝 Looking to collaborate on **innovative software solutions**
 
-## 🛠️ Programming Languages, Technologies & Tools
+## 🛠️ Programming Languages, Technologies & Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="40"/>&nbsp;
